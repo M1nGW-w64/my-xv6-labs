@@ -62,7 +62,7 @@
     3. 递归的进行上面的步骤，直到筛完为止。
 - 示例：
 
-    ![sieve](sieve.gif)
+    ![sieve](_sieve.gif)
 
 # 5. xargs
 
